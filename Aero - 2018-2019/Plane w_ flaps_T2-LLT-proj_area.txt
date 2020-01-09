@@ -1,0 +1,8 @@
+xflr5 v6.39
+
+Plane name :        Plane w/ flaps
+Polar name :        T2-LLT-proj_area
+
+   alpha      Beta       CL          CDi        CDv        CD         CY         Cl         Cm         Cn        Cni       QInf        XCP
+
+
